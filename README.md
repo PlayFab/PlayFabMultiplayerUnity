@@ -61,4 +61,4 @@ The SDK contains the following:
 - Go to the `/Assets/PlayFabMultiplayerSDK/Prefabs` folder and drag and drop the `PlayfabMultiplayerEventProcessor` prefab into your scene
 - Note: PlayFabMultiplayer SDK is x64, so when you build Standalone (Windows) please build for x64.
 
-For a detailed guide please check out [Quickstart: PlayFab Multiplayer Unity Plugin](https://docs.microsoft.com/en-us/gaming/playfab/features/multiplayer/lobby/lobby-sdks/multiplayer-unity-plugin-quickstart)
+For a detailed guide please check out [Quickstart: PlayFab Multiplayer Unity Plugin](https://docs.microsoft.com/en-us/gaming/playfab/features/multiplayer/lobby/lobby-matchmaking-sdks/multiplayer-unity-plugin-quickstart)
