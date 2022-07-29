@@ -12,14 +12,14 @@ _(Please use Git client with Large File Storage (LFS) support to work with this 
 ## Version
 |Multiplayer Unity SDK (main)
 |-|
-|1.1.0.0-main.0
+|1.1.5.0-main.0
 
 Officially supported versions of PlayFabMultiplayer binaries with this release, by platform:
 
 Platform|Version|Notes
 |-|-|-|
-Windows|1.1.0
-Game Core|1.1.0|Compatible with GDK 2021.06 (June 2021) or later
+Windows|1.1.5
+Game Core|1.1.5|Compatible with GDK 2022.06 (June 2022) or later
 
 ## Prerequisites
 - PlayFab account ([www.playfab.com](https://www.playfab.com)) registered and set up:
@@ -61,4 +61,4 @@ The SDK contains the following:
 - Go to the `/Assets/PlayFabMultiplayerSDK/Prefabs` folder and drag and drop the `PlayfabMultiplayerEventProcessor` prefab into your scene
 - Note: PlayFabMultiplayer SDK is x64, so when you build Standalone (Windows) please build for x64.
 
-For a detailed guide please check out [Quickstart: PlayFab Multiplayer Unity Plugin](https://docs.microsoft.com/en-us/gaming/playfab/features/multiplayer/lobby/lobby-sdks/multiplayer-unity-plugin-quickstart)
+For a detailed guide please check out [Quickstart: PlayFab Multiplayer Unity Plugin](https://docs.microsoft.com/en-us/gaming/playfab/features/multiplayer/lobby/lobby-matchmaking-sdks/multiplayer-unity-plugin-quickstart)
