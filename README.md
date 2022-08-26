@@ -12,14 +12,14 @@ _(Please use Git client with Large File Storage (LFS) support to work with this 
 ## Version
 |Multiplayer Unity SDK (main)
 |-|
-|1.1.5.0-main.0
+|1.2.0.0-main.0
 
 Officially supported versions of PlayFabMultiplayer binaries with this release, by platform:
 
 Platform|Version|Notes
 |-|-|-|
-Windows|1.1.5
-Game Core|1.1.5|Compatible with GDK 2022.06 (June 2022) or later
+Windows|1.2.0
+Game Core|1.2.0|Compatible with GDK 2022.06 (June 2022) or later
 
 ## Prerequisites
 - PlayFab account ([www.playfab.com](https://www.playfab.com)) registered and set up:
